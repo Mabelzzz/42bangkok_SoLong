@@ -8,7 +8,7 @@
 
 <br>
 
-## 🌟 Project Summary (Overview for Portfolio)
+## 🌟 Project Summary
 
 **"So Long"** is a concise **2D maze exploration game** developed as a core project for the 42 curriculum. Built entirely in **C** and utilizing the **MiniLibX** graphic library, this project serves as a comprehensive exercise in foundational graphics programming and robust data validation.
 
