@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   render.c                                           :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: pnamwayk <marvin@42.fr>                    +#+  +:+       +#+        */
+/*   By: pnamwayk <pnamwayk@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/12/22 15:58:41 by pnamwayk          #+#    #+#             */
-/*   Updated: 2022/12/22 16:03:36 by pnamwayk         ###   ########.fr       */
+/*   Updated: 2025/12/01 14:57:48 by pnamwayk         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -41,9 +41,7 @@ void	render_wce(t_gm *game)
 {
 	int	i;
 	int	j;
-	int	k;
 
-	k = 0;
 	i = 0;
 	while (i < game->map.height)
 	{
